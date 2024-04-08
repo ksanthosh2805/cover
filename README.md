@@ -94,6 +94,7 @@ Publish the website in the LocalHost.
 
        }
        .subtitle{
+           color:rgb(255, 251, 0);
            font-family:Verdana;
            font-size: large;
            position: relative;
@@ -122,7 +123,7 @@ Publish the website in the LocalHost.
            <div class="booktitle">
                <h1>Fundamentals of Operating System</h1></div>
            <div class="subtitle">
-                Introduction to Windows, Linux and Mac Oses
+            Building the Foundation: How Operating Systems Make Machines Work
            </div>
            <div class="mypic">
                <img src="./profile.jpg" width="125" height="150" alt="">
@@ -141,6 +142,6 @@ Publish the website in the LocalHost.
 </html>
 ```
 ## OUTPUT:
-![output](./Output.png)
+![output](./image.png)
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
